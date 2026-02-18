@@ -1,0 +1,13 @@
+Model,Variant,WinRate_%
+CNN,only_score,56.00000000000001
+CNN,only_score_bert,44.0
+CNN,score_bert_plus_topic_bert,48.0
+CNN,score_plus_topic_vader,44.0
+CNN-LSTM,only_score,52.0
+CNN-LSTM,only_score_bert,44.0
+CNN-LSTM,score_bert_plus_topic_bert,40.0
+CNN-LSTM,score_plus_topic_vader,48.0
+LSTM,only_score,52.0
+LSTM,only_score_bert,56.00000000000001
+LSTM,score_bert_plus_topic_bert,44.0
+LSTM,score_plus_topic_vader,36.0
